@@ -1,5 +1,5 @@
 # Kharita_outputconverter
-Convert Kharita* output map into Biagioni's Graph Sampling algorithm input for Precision/Recall/F-Score evaluation 
+Convert Kharita* output map into Graph Sampling algorithm input for Precision/Recall/F-Score evaluation 
 
 That's all.
 
